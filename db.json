@@ -1,0 +1,22 @@
+{
+  "passwords": [
+    {
+      "id": "a3d6",
+      "service": "vk",
+      "login": "artemVK",
+      "password": "12345"
+    },
+    {
+      "id": "b463",
+      "service": "YouTube",
+      "login": "YouTubeLOG",
+      "password": "987654321QWERTY!@#"
+    },
+    {
+      "id": "e7f7",
+      "service": "Gmail",
+      "login": "newGmail",
+      "password": "111"
+    }
+  ]
+}
